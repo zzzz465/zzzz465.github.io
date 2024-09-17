@@ -46,7 +46,7 @@ work:
     date_end: ''
     summary: |-
       Working as a PUBG DevOps Engineer at PUBG Studios.  
-      Responsible for managing/deploying kubernetes cluster at large scale, globally, and developing various utility tools.
+      Responsible for managing/deploying large-scale kubernetes cluster globally, and developing various utility tools including CI/CD, logging & tracing, automation.
   - position: DevOps/Data Engineer
     company_name: Krafton Inc. / Overdare
     company_url: ''
@@ -81,54 +81,6 @@ work:
       - Managed and operated Kubernetes clusters and multi-cloud resources
       - Developed and operated internal tools required for Kubernetes cluster management
       - Managed and improved CI/CD pipelines
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards: []
 ---
 
 I'm currently working as a PUBG DevOps Engineer at Krafton Inc. and interested in the following topics.  
