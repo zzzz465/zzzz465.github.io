@@ -133,7 +133,7 @@ awards: []
 
 현재 크래프톤에서 PUBG DevOps Engineer 으로 근무하고 있으며, 다음과 같은 관심사를 갖고 있습니다.  
 
-- 전세계를 대상으로 하는 대규모 멀티 클라우드 Kubernetes Cluster 배포 및 운영
+- 전세계를 대상으로 하는 대규모 멀티 클라우드 기반 Kubernetes Cluster 배포 및 운영
 - OpenTelemetry 기반 Observability 고도화 및 운영
 - 자동화된 도구 및 파이프라인 서비스 개발
 - 주요 관심 프로그래밍 언어: TypeScript, C#, Go, Rust
