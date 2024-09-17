@@ -46,7 +46,7 @@ work:
     date_end: ''
     summary: |-
       PUBG Studios 에서 PUBG DevOps Engineer 로 근무하고 있습니다.  
-      Kubernetes 및 AWS, Azure 등 멀티 클라우드 리소스 관리 및 배포 파이프라인 운영을 담당하고 있습니다.
+      Kubernetes Cluster 운영, AWS, Azure 등 멀티 클라우드 리소스 관리 및 배포 파이프라인 운영을 담당하고 있습니다.
   - position: DevOps/Data Engineer
     company_name: Krafton Inc. / Overdare
     company_url: ''
