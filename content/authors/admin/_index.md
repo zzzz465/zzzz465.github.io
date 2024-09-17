@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 김동옥
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name:
+last_name:
 
 # Status emoji
 status:
@@ -17,83 +17,70 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: DevOps Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Krafton
+    url: https://www.krafton.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/zzzz465
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Computer Science & Engineering
+    institution: Jeonbuk National University
+    date_start: 2019-03-01
+    date_end: ""
+    summary: ""
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: DevOps Engineer
+    company_name: Krafton Inc. @PUBG
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      PUBG Studios 에서 PUBG DevOps Engineer 로 근무하고 있습니다.  
+      Kubernetes 및 AWS, Azure 등 멀티 클라우드 리소스 관리 및 배포 파이프라인 운영을 담당하고 있습니다.
+  - position: DevOps/Data Engineer
+    company_name: Krafton Inc. / Overdare
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-06-01
+    date_end: 2024-04-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Overdare 에서 DevOps/Data Engineer 로 근무하였습니다.
+
+      Data Engineer
+
+      - Kafka, Snowflake 를 이용한 서비스 데이터 파이프라인의 설계 및 구축
+      - DBT, protobuf 기반, GitOps 를 적용한 데이터 스키마 중앙화를 도입하고, protobuf 플러그인 을 활용한 버전 관리
+      - DataHub, Superset 운영을 통한 데이터 플랫폼 구축 및 운영
+      - OpenTelemetry 도입 및 Kafka, Jaeger 를 통한 서비스 트레이싱 구축
+
+      DevOps Engineer
+      
+      - Kubernetes 클러스터 및 클라우드 구축 및 관리
+      - Victoria Metrics 기반 모니터링 시스템의 최적화
+      - OpenSearch 을 활용한 서비스 로깅 시스템 운영 및 메트릭 기반 이상탐지 구축
+      - eBPF 기반 네트워크 보안 및 모니터링 시스템 구축
+  - position: DevOps Engineer
+    company_name: Krafton Inc. @PUBG_NewState
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-06-01
+    date_end: 2022-05-01
+    summary: |
+      PUBG Studios 에서 New State 프로젝트의 DevOps Engineer 로 근무하였습니다.
+
+      - Kubernetes 클러스터 및 AWS, Azure 등의 멀티 클라우드 리소스 운영 및 관리
+      - Kubernetes 클러스터 관리에 필요한 내부 도구 개발 및 운영
+      - CI/CD 파이프라인 운영 및 개선
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -141,32 +128,12 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+awards: []
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+현재 크래프톤에서 PUBG DevOps Engineer 으로 근무하고 있으며, 다음과 같은 관심사를 갖고 있습니다.  
+
+- managing/deploying kubernetes cluster at large scale, globally
+- better Observability with OpenTelemetry
+- developing various utility tools
+- interested language: TypeScript, C#, Go, Rust
