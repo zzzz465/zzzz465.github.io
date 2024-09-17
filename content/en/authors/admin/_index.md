@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김동옥
+title: Dongok Kim
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -44,9 +44,9 @@ work:
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
-    summary: |2-
-      PUBG Studios 에서 PUBG DevOps Engineer 로 근무하고 있습니다.  
-      Kubernetes 및 AWS, Azure 등 멀티 클라우드 리소스 관리 및 배포 파이프라인 운영을 담당하고 있습니다.
+    summary: |-
+      Working as a PUBG DevOps Engineer at PUBG Studios.  
+      Responsible for managing/deploying kubernetes cluster at large scale, globally, and developing various utility tools.
   - position: DevOps/Data Engineer
     company_name: Krafton Inc. / Overdare
     company_url: ''
@@ -54,21 +54,21 @@ work:
     date_start: 2022-06-01
     date_end: 2024-04-01
     summary: |
-      Overdare 에서 DevOps/Data Engineer 로 근무하였습니다.
+      Worked as a DevOps/Data Engineer at Overdare.
 
       Data Engineer
 
-      - Kafka, Snowflake 를 이용한 서비스 데이터 파이프라인의 설계 및 구축
-      - DBT, protobuf 기반, GitOps 를 적용한 데이터 스키마 중앙화를 도입하고, protobuf 플러그인 을 활용한 버전 관리
-      - DataHub, Superset 운영을 통한 데이터 플랫폼 구축 및 운영
-      - OpenTelemetry 도입 및 Kafka, Jaeger 를 통한 서비스 트레이싱 구축
+      - Designed and built service data pipelines using Kafka and Snowflake
+      - Introduced centralized data schema management by applying GitOps based on DBT and protobuf, and utilized protobuf plugins for version control
+      - Built and operated a data platform using DataHub and Superset
+      - Implemented service tracing using OpenTelemetry and established tracing with Kafka and Jaeger
 
       DevOps Engineer
-      
-      - Kubernetes 클러스터 및 클라우드 구축 및 관리
-      - Victoria Metrics 기반 모니터링 시스템의 최적화
-      - OpenSearch 을 활용한 서비스 로깅 시스템 운영 및 메트릭 기반 이상탐지 구축
-      - eBPF 기반 네트워크 보안 및 모니터링 시스템 구축
+
+      - Built and managed Kubernetes clusters and cloud infrastructure
+      - Optimized monitoring systems based on Victoria Metrics
+      - Managed service logging systems using OpenSearch and established anomaly detection based on metrics
+      - Built network security and monitoring systems using eBPF
   - position: DevOps Engineer
     company_name: Krafton Inc. @PUBG_NewState
     company_url: ''
@@ -76,11 +76,11 @@ work:
     date_start: 2021-06-01
     date_end: 2022-05-01
     summary: |
-      PUBG Studios 에서 New State 프로젝트의 DevOps Engineer 로 근무하였습니다.
+      Worked as a DevOps Engineer at PUBG New State.
 
-      - Kubernetes 클러스터 및 AWS, Azure 등의 멀티 클라우드 리소스 운영 및 관리
-      - Kubernetes 클러스터 관리에 필요한 내부 도구 개발 및 운영
-      - CI/CD 파이프라인 운영 및 개선
+      - Managed and operated Kubernetes clusters and multi-cloud resources
+      - Developed and operated internal tools required for Kubernetes cluster management
+      - Managed and improved CI/CD pipelines
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -131,9 +131,9 @@ languages:
 awards: []
 ---
 
-현재 크래프톤에서 PUBG DevOps Engineer 으로 근무하고 있으며, 다음과 같은 관심사를 갖고 있습니다.  
+I'm currently working as a PUBG DevOps Engineer at Krafton Inc. and interested in the following topics.  
 
-- managing/deploying kubernetes cluster at large scale, globally
+- managing/deploying multiple kubernetes cluster at large/global scale
 - better Observability with OpenTelemetry
 - developing various utility tools
 - interested language: TypeScript, C#, Go, Rust
