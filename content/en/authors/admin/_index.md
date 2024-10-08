@@ -70,7 +70,7 @@ work:
       - Built and managed Kubernetes clusters and cloud infrastructure
       - Optimized monitoring systems based on Victoria Metrics
       - Managed service logging systems using OpenSearch and established anomaly detection based on metrics
-      - Built network security and monitoring systems using eBPF
+      - Built kernel-level network security and monitoring systems using eBPF
   - position: DevOps Engineer
     company_name: Krafton Inc. @PUBG_NewState
     company_url: ''

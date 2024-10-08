@@ -71,7 +71,7 @@ work:
       - Kubernetes 클러스터 및 클라우드 구축 및 관리
       - Victoria Metrics 기반 모니터링 시스템의 최적화
       - OpenSearch 을 활용한 서비스 로깅 시스템 운영 및 메트릭 기반 이상탐지 구축
-      - eBPF 기반 네트워크 보안 및 모니터링 시스템 구축
+      - eBPF 기반 kernel 레벨 네트워크 보안 및 모니터링 시스템 구축
   - position: DevOps Engineer
     company_name: Krafton Inc. @PUBG_NewState
     company_url: ''
