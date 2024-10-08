@@ -47,6 +47,8 @@ work:
     summary: |-
       Working as a PUBG DevOps Engineer at PUBG Studios.  
       Responsible for managing/deploying large-scale kubernetes cluster globally, and developing various utility tools including CI/CD, logging & tracing, automation.
+
+      current: working on multi-project/tenant game server deployment platform
   - position: DevOps/Data Engineer
     company_name: Krafton Inc. / Overdare
     company_url: ''
