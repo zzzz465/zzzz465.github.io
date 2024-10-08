@@ -49,7 +49,7 @@ work:
 
       - Global Scale 로 동작하는 Kubernetes Cluster 관리
       - AWS, Azure 등의 멀티 클라우드 기반 리소스의 운영 및 IaC
-      - 멀티 프로젝트의 게임 서버 배포 플랫폼 개발 및 운영
+      - 다중 프로젝트를 지원하는 게임 서버 배포 플랫폼 개발 및 운영
   - position: DevOps/Data Engineer
     company_name: Krafton Inc. / Overdare
     company_url: ''
