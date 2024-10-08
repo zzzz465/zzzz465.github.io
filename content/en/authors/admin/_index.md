@@ -85,7 +85,8 @@ work:
       - Managed and improved CI/CD pipelines
 ---
 
-I'm currently working as a PUBG DevOps Engineer at Krafton Inc. and interested in the following topics.  
+I'm currently working as a PUBG DevOps Engineer at Krafton Inc.  
+topics that I'm interested in:
 
 - managing/deploying multiple kubernetes cluster at large/global scale
 - better Observability with OpenTelemetry
